@@ -1,0 +1,1 @@
+# testando_ferramentas_de_ias_com_python
